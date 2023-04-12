@@ -35,6 +35,14 @@
     background-color: #3498db;
 }
 
+.ui-menu-color-interests {
+    background-color: #e74c3c;
+}
+
+.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
 .ui-menu-color-download {
     background-color: #525252;
 }
@@ -90,7 +98,7 @@ header {
 }
 
 .logo {
-    background: url(../images/pfp.jpg);
+    background: url(../images/coding\ resume\ image.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -147,7 +155,7 @@ header {
 }
 
 .menuitem a i {
-    padding-top: 20px;
+    padding-top: 22px;
     display: block;
     color: #fafafa;
     font-size: 26px;
